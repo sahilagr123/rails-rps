@@ -7,3 +7,5 @@ Rails.application.routes.draw do
 
   get("/", { :controller => "zebra", :action => "rules"})
 end
+
+#Test here
